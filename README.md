@@ -1,7 +1,7 @@
 # html-css-cursor-page
 
 ## Description
-My first portfolio website built with html and css.
+Cursor website home-psge built with html and css.
 
 ## live-project-link 
 https://divyanshu08khare.github.io/html-cursor/
