@@ -3,6 +3,8 @@
 ## Description
 Cursor website home-psge built with html and css.
 
+### Note - I have made the dark-theme version of the page.
+
 ## live-project-link 
 https://divyanshu08khare.github.io/html-cursor/
 
